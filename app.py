@@ -126,7 +126,7 @@ with st.container():
                             r=audio[:5],
                             theta=audio_feats[:5]))
                
-                        fig.update_layout(height=400, width=340)
+                        
                       
 
     else:
