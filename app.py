@@ -36,7 +36,7 @@ def n_neighbors_uri_audio(genre, start_year, end_year, test_feat):
 title = "Song Recommendation Engine"
 st.title(title)
 
-st.write("MAJOR PROJECT : Song Recommender system made by Deepanshu Molasi Mca")
+st.write("MINOR PROJECT : Song Recommender system made by Deepanshu Molasi Mca")
 st.markdown("##")
 
 with st.container():
